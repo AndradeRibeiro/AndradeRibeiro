@@ -15,8 +15,6 @@
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" height="30" width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg">
   <img align="center" height="30" width="30" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg">
   <img align="center" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-plain.svg">
   <img align="center" height="30" width="30" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg">
