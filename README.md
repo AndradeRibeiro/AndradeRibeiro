@@ -1,4 +1,4 @@
-<h3>Olá, seja muito bem-vindo ! 🥰😊🤩😍 </h3>
+<h3>Olá, seja muito bem-vindo ! 🥰🤩 </h3>
 
 <div align="center">
   <a href="https://github.com/AndradeRibeiro">
